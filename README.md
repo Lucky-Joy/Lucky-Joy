@@ -13,10 +13,9 @@ I enjoy building practical, real-world solutions with Machine Learning and Gener
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,html,css" />
+  <img src="https://az-icons.com/images/sql-database/icon.svg" width="48" height="48" />
 </p>
-
-**SQL**
 
 ### Machine Learning & Deep Learning
 
@@ -28,14 +27,21 @@ I enjoy building practical, real-world solutions with Machine Learning and Gener
 
 <p>
   <img src="https://skillicons.dev/icons?i=huggingface" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWzU-LR0o5dmL0XoCvYfABShUEIaFtAnX4kZkNq88yM0AhA6fAOtjvFb-q&s=10" width="48" height="48" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRjSjDaZ4QvQLhwctjOFacJlv6B8aWJfUJfCS4uZFLMA&s=10" width="48" height="48" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO9VJEx1GHl6uccyUEGdrScDE-4W8lcCRqi1MTRJiSAQ&s=10" width="48" height="48" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT51jYSJSF918y97LN7SqImseOb9Buk5imA1i9IZLY2MQ&s=10" width="48" height="48" />
 </p>
 
-**RAG · LangGraph · ChromaDB · Diffusers**
+**Hugging Face · RAG · LangChain · LangGraph · ChromaDB**
 
 ### Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuh99JH1y0b3I0toaztCtn-EiBLCHnhtcRz8YGm9ADjA&s=10" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxbSorzVKIoP5be38rPTiqzUlab-TczbjjT8-bE6SwUw&s=10" width="48" height="48" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHewMLeVUMOqIYkpeuDQr4x8MzO_stl3AIJ7T3JXEn6g&s=10" width="48" height="48" />
 </p>
 
 **Pandas · NumPy · Matplotlib · Plotly**
@@ -44,6 +50,9 @@ I enjoy building practical, real-world solutions with Machine Learning and Gener
 
 <p>
   <img src="https://skillicons.dev/icons?i=spring,maven,sqlite,aws,git,github,docker,vscode,pycharm" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn-ijvOGYJ_jq5ky9VgBs1RK7_Gt4uoD9-EGIDt_pxOg&s=10" width="48" height="48" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5gicasXJ1-ytBUyKhgNF6C4rSsf22nGfI3HjM7Uh2Hg&s=10" width="48" height="48" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsP5m6AQgWq6pe8uHeH5s4xGAa6gO-2hmaaxKU1T54Sg&s=10" width="48" height="48" />
 </p>
 
 **Streamlit · Gradio · Replit**
